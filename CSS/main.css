@@ -364,6 +364,7 @@ i {
     .about .content {
         flex-direction: column;
         flex-wrap: nowrap;
+        align-items: center;
     }
 
     .about .content .image::before {
